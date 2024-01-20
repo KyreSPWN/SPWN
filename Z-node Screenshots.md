@@ -12,6 +12,10 @@ This repository has examples of what each of these look like.
   - Z-node.jpg = A node that has been drained. It's duller in color than an active node.
   - ActiveNode.jpg = A node that still has materials left.
 
+![An image of a gas node that is dull in color showing that it has been emptied.](https://github.com/KyreSPWN/SPWN/blob/main/Z-node.jpg)
+
+![An image of a gas node that is vibrant in color showing that it still has material left in it.](https://github.com/KyreSPWN/SPWN/blob/main/ActiveNode.jpg)
+
 The image Z-node.jpg is an example of what the RoE Officer will expect as evidence if they request it. The information that needs to be shown in the screenshot is:
   - The node looking duller in color.
   - The name of the victim shown clearly.
