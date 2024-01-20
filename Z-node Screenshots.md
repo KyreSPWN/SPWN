@@ -20,6 +20,8 @@ The following is an example of a node that has vibrant color, showing that it st
 
 ![An image of a gas node that is vibrant in color showing that it still has material left in it.](https://github.com/KyreSPWN/SPWN/blob/main/ActiveNode.jpg)
 
+<br><br>
+
 You do not need to click on the node to bring up the node information. That obscures the name of the player sitting on the node.
 
 If you have any questions about what is expected, please ask an Officer.
