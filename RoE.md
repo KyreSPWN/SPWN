@@ -34,7 +34,7 @@ The above rules promote fair and fun play. Regardless, any alliance at any time 
     - UPC miners are protected by RoE and shall not be hit, including floating miners. The exception is a miner that is on a Z-node, in which case a screenshot is required, as previously described. Hitting a non-Z-node UPC miner will count as a strike.
 
 - Territories are off limits for pvp with the following exceptions:
-    - Time of war
+    - Time of war (please verify with an officer that Territory hits are OK).
     - Takeover events (We allow it but firmly believe the right thing to do is enter as intended, by submitting the RSS to enter the takeover. While this is our opinion, we respect that others may not view it the same way.)
 
 - Q trial events in territory:
@@ -42,7 +42,7 @@ The above rules promote fair and fun play. Regardless, any alliance at any time 
 
 - Infractions to these guidelines will be discussed with the offenders or applicable offender's alliance Admiral / ROE Officer to discuss the best next steps.
 
-- SPWN has a 3 strike rule we are implementing beginning 10/8/23. We will hold our players accountable for items like no SS screenshots or ROE violations.
+- SPWN has a 3 strike rule we are implementing beginning 10/8/23. We will hold our players accountable for items like no screenshots or ROE violations.
 
 
 
