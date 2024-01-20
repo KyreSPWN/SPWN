@@ -20,7 +20,7 @@ Not Protected by ROE:
 - Territory, although almost every territory holding alliance will KOS you for hits there.
 
 All alliances are welcome to add additional ROE for their alliance if that addition means fewer allowed hits.
-     - Example: An alliance can say that they will not hit z-nodes. If adding, the alliance should post and pin that in their embassy channel. 
+- Example: An alliance can say that they will not hit z-nodes. If adding, the alliance should post and pin that in their embassy channel. 
 
 The above rules promote fair and fun play. Regardless, any alliance at any time can declare war or KOS on another alliance based on its own reasoning, even if other alliances disagree. Should an alliance abuse war, other alliances may band together to put them in their place based on consensus.
 
