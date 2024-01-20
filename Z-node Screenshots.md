@@ -14,7 +14,7 @@ The below image is an example of what the RoE Officer will expect as evidence if
 
 ![An image of a gas node that is dull in color showing that it has been emptied.](https://github.com/KyreSPWN/SPWN/blob/main/Z-node.jpg)
 
-<br\><br\>
+<br><br>
 
 The following is an example of a node that has vibrant color, showing that it still has material left in it. This is **NOT** an OK player to hit.
 
