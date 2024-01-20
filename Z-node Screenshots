@@ -9,10 +9,10 @@ How to take a Z-node screenshot:
 STFC has differentiated what a node that has materials left looks like, from one that has been drained. Nodes that have materials left are brighter, while Z-nodes are duller.
 
 This repository has examples of what each of these look like.
-  - Z-node.jpg = A node that has been drained. It's duller in color than an active node.
-  - ActiveNode.jpg = A node that still has materials left.
+  - [Z-node.jpg](https://github.com/KyreSPWN/SPWN/blob/main/Z-node.jpg) = A node that has been drained. It's duller in color than an active node.
+  - [ActiveNode.jpg](https://github.com/KyreSPWN/SPWN/blob/main/ActiveNode.jpg) = A node that still has materials left.
 
-The image Z-node.jpg is an example of what the RoE Officer will expect as evidence if they request it. The information that needs to be shown in the screenshot is:
+The image [Z-node.jpg](https://github.com/KyreSPWN/SPWN/blob/main/Z-node.jpg) is an example of what the RoE Officer will expect as evidence if they request it. The information that needs to be shown in the screenshot is:
   - The node looking duller in color.
   - The name of the victim shown clearly.
 
