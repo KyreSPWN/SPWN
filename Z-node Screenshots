@@ -1,4 +1,4 @@
-It is SPWN policy that screenshots of Z-node hits are REQUIRED before you hit the ship.
+It is SPWN policy that screenshots of Z-node hits are REQUIRED *before* you hit a Z-node ship.
 
 These screenshots shall be kept for at least 7 days after the hit, may be requested by SPWN officers, and must be given if proof of the Z-node is needed.
 
@@ -6,4 +6,16 @@ Communication will happen in Steve's discord server in the "stfc-roe-violations-
 
 How to take a Z-node screenshot:
 
-STFC has a 
+STFC has differentiated what a node that has materials left looks like, from one that has been drained. Nodes that have materials left are brighter, while Z-nodes are duller.
+
+This repository has examples of what each of these look like.
+  - Z-node.jpg = A node that has been drained. It's duller in color than an active node.
+  - ActiveNode.jpg = A node that still has materials left.
+
+The image Z-node.jpg is an example of what the RoE Officer will expect as evidence if they request it. The information that needs to be shown in the screenshot is:
+  - The node looking duller in color.
+  - The name of the victim shown clearly.
+
+You do not need to click on the node to bring up the node information. That obscures the name of the player sitting on the node.
+
+If you have any questions about what is expected, please ask an Officer.
