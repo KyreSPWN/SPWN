@@ -8,17 +8,15 @@ Communication will happen in Steve's discord server in the "stfc-roe-violations-
 
 STFC has differentiated what a node that has materials left looks like, from one that has been drained. Nodes that have materials left are brighter, while Z-nodes are duller.
 
-This repository has examples of what each of these look like.
-  - Z-node.jpg = A node that has been drained. It's duller in color than an active node.
-  - ActiveNode.jpg = A node that still has materials left.
+The below image is an example of what the RoE Officer will expect as evidence if they request it. The information that needs to be shown in the screenshot is:
+  - The node looking duller in color.
+  - The name of the victim shown clearly.
 
 ![An image of a gas node that is dull in color showing that it has been emptied.](https://github.com/KyreSPWN/SPWN/blob/main/Z-node.jpg)
 
-![An image of a gas node that is vibrant in color showing that it still has material left in it.](https://github.com/KyreSPWN/SPWN/blob/main/ActiveNode.jpg)
+Below is an example of a node that has vibrant color, showing that it still has material left in it.
 
-The image Z-node.jpg is an example of what the RoE Officer will expect as evidence if they request it. The information that needs to be shown in the screenshot is:
-  - The node looking duller in color.
-  - The name of the victim shown clearly.
+![An image of a gas node that is vibrant in color showing that it still has material left in it.](https://github.com/KyreSPWN/SPWN/blob/main/ActiveNode.jpg)
 
 You do not need to click on the node to bring up the node information. That obscures the name of the player sitting on the node.
 
