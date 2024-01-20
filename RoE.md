@@ -64,4 +64,4 @@ Off limits:
 - Territory
 - Token Space
 
-Primarially written by Wish, with additions by Kyre
+Primarially written by Wish, with additions by KyreR
