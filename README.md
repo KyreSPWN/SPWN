@@ -14,4 +14,9 @@ We have a discord server, and the link to that is available through the Announce
 
 This is Steve's professional discord, so the other rooms in the server should remain free from discussions about the game. 
 
-You can get notifications when people post to the discord rooms!
+You can get notifications when people post to the discord rooms! Here are the steps:
+1. Go to the "star-trek-fleet-command" room on discord.
+2. Open the magnifying glass search function.
+3. Click on "Pins".
+4. Find the following post:
+![
