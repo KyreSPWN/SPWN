@@ -19,4 +19,4 @@ You can get notifications when people post to the discord rooms! Here are the st
 2. Open the magnifying glass search function.
 3. Click on "Pins".
 4. Find the following post:
-![
+   ![image of a discord bot called YAGPDB.xyz for Role Manu: React Roles](https://github.com/KyreSPWN/SPWN/blob/main/Notification1.jpg)
