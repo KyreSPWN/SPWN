@@ -14,7 +14,7 @@ This is Steve's professional discord, so the other rooms in the server should re
 
 If you have any questions about RoE, please contact KyreR in game or in the STFC rooms on discord.
 
-You can get notifications when people post to the discord rooms! Here are the steps:
+You can get notifications when people post with an @stfc in the discord rooms! Here are the steps:
 1. Go to the "star-trek-fleet-command" room on discord.
 2. Open the magnifying glass search function.
 3. Click on "Pins".
