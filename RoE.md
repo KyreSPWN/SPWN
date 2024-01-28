@@ -57,4 +57,6 @@ The above rules promote fair and fun play. Regardless, any alliance at any time 
 
 **FOR ALL LABLES: TOKEN SPACES AND TERRITORIES ARE OFF LIMITS UNLESS AN OFFICER SAYS OTHERWISE**
 
+This is a copy of the RoE found in Steve's discord. The version of RoE on discord is considered the primary authority if there are ever any discrepancies between the two. Please join the discord and check the RoE regularly to ensure you're up to date on the latest requirements.
+
 Primarially written by Wish and Gail, with additions by KyreR
