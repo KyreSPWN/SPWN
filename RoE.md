@@ -45,23 +45,16 @@ The above rules promote fair and fun play. Regardless, any alliance at any time 
 - SPWN has a 3 strike rule we are implementing beginning 10/8/23. We will hold our players accountable for items like no screenshots or ROE violations.
 
 
+## Alliance Status Meanings
 
-## SPWN Friendly Agreement with SPEC
+- **Allied** (*Purple Heart*): Do not hit for any reason. If they war, we war, and vice versa.
+- **Friendly** (*Purple Spock Hand*): Abide by RoE, can hit OPC. Please only hit Z-Node if you need the node (and screenshots are still required). Bases, Autogrinders, Floaters, Territories, and Token Space are offlimits.
+- **Civil** (*Blue circle with a slash in it*): We technically don't treat any different than neutral, but consider this a gateway to becomming NOT blood thirsty enemies.
+- **Neutral** (*no mark*): Follow RoE.
+- **Caution** (*Yellow Triangle*): Fire watch. Used to mark temporary enemy alliances during territory defense or takeovers, or to find someone. Continue following RoE.
+- **Unfriendly** (*angry red face*): Made Steve angry. Hit them often, but follow RoE.
+- **Enemy** (*Red Target*): At war. Full KoS (kill on sight). RoE does NOT apply. Armadas and Token Spaces may still be off limits, despite them being KoS so please ask an officer if it's ok to hit them before doing so.
 
-In January, 2024, the alliances SPWN and SPEC entered into a Friendly agreement. 
+**FOR ALL LABLES: TOKEN SPACES AND TERRITORIES ARE OFF LIMITS UNLESS AN OFFICER SAYS OTHERWISE**
 
-These are the terms agreed upon by both alliances:
-
-- Abide by RoE
-- OPC hits are OK
-- Z-node hits are only OK if you need the node (ie, there are no free nodes in the system).
-     - Screenshots for Z-node hits are still required as per SPWN RoE
-
-Off limits:
-- Bases
-- Auto Grinders
-- Floaters
-- Territory
-- Token Space
-
-Primarially written by Wish, with additions by KyreR
+Primarially written by Wish and Gail, with additions by KyreR
