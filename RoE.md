@@ -4,8 +4,8 @@ Definitions can be found in PVP Target Guide https://www.pvptarget.com/guide
 
 Basic ROE as written in PVP Target Guide and summarized as below:
 - All warships within the battle triangle are fair play
-- OPC survey ships are fair play
-- Including those sitting in space, returning home from mining, or returning home from a base raid
+- OPC survey ships are fair play, including those sitting in space, returning home from mining, or returning home from a base raid
+- UPC survey ships that are floating (defined as sitting in space or moving through space) are off limits
 - UPC survey ships that are on z-nodes are fair play
 
 Off-limit hits:
