@@ -21,3 +21,5 @@ You can get notifications when people post with an @stfc in the discord rooms! H
 4. Find the following post and click it (it's near the top):
    ![image of a discord bot called YAGPDB.xyz for Role Manu: React Roles](https://github.com/KyreSPWN/SPWN/blob/main/Notification1.jpg)
 5. When the post opens, react to it with the Vulcan Live Long and Prosper emoji 🖖
+
+[Home](https://github.com/KyreSPWN/SPWN)
