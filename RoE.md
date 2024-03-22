@@ -60,3 +60,5 @@ The above rules promote fair and fun play. Regardless, any alliance at any time 
 This is a copy of the RoE found in Steve's discord. The version of RoE on discord is considered the primary authority if there are ever any discrepancies between the two. Please join the discord and check the RoE regularly to ensure you're up to date on the latest requirements.
 
 Primarially written by Wish and Gail, with additions by KyreR
+
+[Home](https://github.com/KyreSPWN/SPWN)
