@@ -2,18 +2,18 @@
 
 Definitions can be found in PVP Target Guide https://www.pvptarget.com/guide 
 
-Basic ROE as written in PVP Target Guide and summarized as below:
+**Basic ROE as written in PVP Target Guide and summarized as below:**
 - All warships within the battle triangle are fair play
 - OPC survey ships are fair play, including those sitting in space, returning home from mining, or returning home from a base raid
 - UPC survey ships that are floating (defined as sitting in space or moving through space) are off limits
 - UPC survey ships that are on z-nodes are fair play
 
-Off-limit hits:
+**Off-limit hits:**
 - Ships in token space
 - Ships in active armadas or waiting for armadas
 - Discovery only while mining mycelium and UPC
 
-Not Protected by ROE:
+**Not Protected by ROE:**
 - Base raids. Be aware that interfering with a base raid will likely cause hostilities. 
 - Bases in general. Shield or Share.
 - Survey ships acting as warships, including during base raids or hostile hunting for XP
@@ -24,7 +24,13 @@ All alliances are welcome to add additional ROE for their alliance if that addit
 
 The above rules promote fair and fun play. Regardless, any alliance at any time can declare war or KOS on another alliance based on its own reasoning, even if other alliances disagree. Should an alliance abuse war, other alliances may band together to put them in their place based on consensus.
 
+**Incursions**
+-General base raiding is shield or share, so should be happening all the time
+-Begin raiding territory bases 24 hours in advance of incursions
+-Suspend ROE 4 hours in advance of incursions
 
+**Amendments**
+-No ship is protected, regardless of any other RoE provision, if on a specialty mining node that it is not designed for. Specialty mining node is defined as anything NOT parsteel/Tritanium/Dilithium/Crystal/Ore/Gas/Isogen. For purposes of this provision, Arrock as captain is acceptable for CLAT.
 
 ## SPWN specific ROE:
 
