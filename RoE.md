@@ -25,12 +25,12 @@ All alliances are welcome to add additional ROE for their alliance if that addit
 The above rules promote fair and fun play. Regardless, any alliance at any time can declare war or KOS on another alliance based on its own reasoning, even if other alliances disagree. Should an alliance abuse war, other alliances may band together to put them in their place based on consensus.
 
 **Incursions**
--General base raiding is shield or share, so should be happening all the time
--Begin raiding territory bases 24 hours in advance of incursions
--Suspend ROE 4 hours in advance of incursions
+- General base raiding is shield or share, so should be happening all the time
+- Begin raiding territory bases 24 hours in advance of incursions
+- Suspend ROE 4 hours in advance of incursions
 
 **Amendments**
--No ship is protected, regardless of any other RoE provision, if on a specialty mining node that it is not designed for. Specialty mining node is defined as anything NOT parsteel/Tritanium/Dilithium/Crystal/Ore/Gas/Isogen. For purposes of this provision, Arrock as captain is acceptable for CLAT.
+- No ship is protected, regardless of any other RoE provision, if on a specialty mining node that it is not designed for. Specialty mining node is defined as anything NOT parsteel/Tritanium/Dilithium/Crystal/Ore/Gas/Isogen. For purposes of this provision, Arrock as captain is acceptable for CLAT.
 
 ## SPWN specific ROE:
 
