@@ -34,7 +34,7 @@ The above rules promote fair and fun play. Regardless, any alliance at any time 
 
 ## SPWN specific ROE:
 
-- Our members are required to take screenshots of Z-node hits and keep for 1 week.
+- Our members are required to take screenshots of Z-node hits and keep for 1 week. **All screenshots must be posted in discord in the stfc-znode screenshot channel.**
 
 - UPC Miners:
     - UPC miners are protected by RoE and shall not be hit, including floating miners. The exception is a miner that is on a Z-node, in which case a screenshot is required, as previously described. Hitting a non-Z-node UPC miner will count as a strike.
