@@ -1,36 +1,40 @@
 ## Server 99 Rules of Engagement
 
-Definitions can be found in PVP Target Guide https://www.pvptarget.com/guide 
+**Basic Server 99 Rules of Engagement (ROE)**
 
-**Basic ROE as written in PVP Target Guide and summarized as below:**
-- All warships within the battle triangle are fair play
-- OPC survey ships are fair play, including those sitting in space, returning home from mining, or returning home from a base raid
-- UPC survey ships that are floating (defined as sitting in space or moving through space) are off limits
+**Overarching Rules**
+- Shield or share
+- All alliances may apply more restrictive ROE for their alliance (i.e., rules resulting in fewer allowed hits)
+- ROE is designed to promote fair and fun play, but does not restrict the ability of any alliance to declare war or KOS on another alliance based on its own reasoning, even if other alliances disagree. Should an alliance abuse war, other alliances may band together to put them in their place based on consensus. 
+- See PVP Target Guide (https://www.pvptarget.com/guide) for Definitions/Additional Information. 
+- If this channel and the PVP Target Guide conflict, this channel governs for Server 99
+
+**Hits Allowed Under ROE**
+- All ships acting as warships are fair play, including surveys engaging in base raids or hunting hostiles
+- OPC survey ships are fair play, including those floating or traveling
 - UPC survey ships that are on z-nodes are fair play
+- Ships on specialty mining nodes for which they are not designed, except concentrated latinum when being mined with Arrock as captain.
 
-**Off-limit hits:**
-- Ships in token space
-- Ships in active armadas or waiting for armadas
+**Off-limit Hits**
+- Ships in token space, except in the Mirror Universe when acting as warships
+- Ships within an active armada circle
+- UPC survey ships that are floating or traveling are off limits
 - Discovery only while mining mycelium and UPC
 
-**Not Protected by ROE:**
-- Base raids. Be aware that interfering with a base raid will likely cause hostilities. 
-- Bases in general. Shield or Share.
-- Survey ships acting as warships, including during base raids or hostile hunting for XP
-- Territory, although almost every territory holding alliance will KOS you for hits there.
-
-All alliances are welcome to add additional ROE for their alliance if that addition means fewer allowed hits.
-- Example: An alliance can say that they will not hit z-nodes. If adding, the alliance should post and pin that in their embassy channel. 
-
-The above rules promote fair and fun play. Regardless, any alliance at any time can declare war or KOS on another alliance based on its own reasoning, even if other alliances disagree. Should an alliance abuse war, other alliances may band together to put them in their place based on consensus.
+**Not Covered by ROE**
+- Bases, including hives 
+- Base raid interference (may cause hostilities between alliances) 
+- Territory (may cause hostilities between alliances)
 
 **Incursions**
-- General base raiding is shield or share, so should be happening all the time
-- Begin raiding territory bases 24 hours in advance of incursions
-- Suspend ROE 4 hours in advance of incursions
+- Begin raiding territory bases 24 hrs in advance of incursions
+- Suspend ROE 4 hrs ahead of incursions
 
-**Amendments**
-- No ship is protected, regardless of any other RoE provision, if on a specialty mining node that it is not designed for. Specialty mining node is defined as anything NOT parsteel/Tritanium/Dilithium/Crystal/Ore/Gas/Isogen. For purposes of this provision, Arrock as captain is acceptable for CLAT.
+**Additional Definitions**
+- Floating: sitting in space 
+- Traveling: moving through space, including surveys returning to base from mining or raiding
+- Specialty mining node: any node other than parsteel/tritanium/dilithium/crystal/ore/gas/isogen
+- Token space: any system requiring an item be provided in exchange for entrance, irrespective of the name of the item
 
 ## SPWN specific ROE:
 
