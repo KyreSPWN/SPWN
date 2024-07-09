@@ -24,10 +24,9 @@
 **Not Covered by ROE**
 - Bases, including hives 
 - Base raid interference (may cause hostilities between alliances) 
-- Territory (may cause hostilities between alliances)
 
 **Incursions**
-- Begin raiding territory bases 24 hrs in advance of incursions
+- Begin boot and loot and strategic raiding territory bases no later than 24 hrs in advance of incursions
 - Suspend ROE 4 hrs ahead of incursions
 
 **Additional Definitions**
@@ -35,20 +34,29 @@
 - Traveling: moving through space, including surveys returning to base from mining or raiding
 - Specialty mining node: any node other than parsteel/tritanium/dilithium/crystal/ore/gas/isogen
 - Token space: any system requiring an item be provided in exchange for entrance, irrespective of the name of the item
+- Warship: any battleship, explorer, or interceptor; any ship engaged in PvP or hostile hunting; or any ship in another alliance's territory without invite, unless otherwise exempt under these rules.
 
 ## SPWN specific ROE:
 
-- Our members are required to take screenshots of Z-node hits and keep for 1 week. **All screenshots must be posted in discord in the stfc-znode screenshot channel.**
+Our RoE Officer is KyreR, Backup is FahQueue2
+- Any RoE violations should be reported to them in the discord channel "stfc-roe-violations-only".
+- If Kyre or FQ is unavailable for any reason, another officer will handle it.
 
-- UPC Miners:
-    - UPC miners are protected by RoE and shall not be hit, including floating miners. The exception is a miner that is on a Z-node, in which case a screenshot is required, as previously described. Hitting a non-Z-node UPC miner will count as a strike.
+- Our members are required to take screenshots of Z-node hits. **All screenshots must be posted in discord in the stfc-znode screenshot channel.** Failure to provide Z-node screenshots will result in a strike.
 
-- Territories are off limits for pvp with the following exceptions:
-    - Time of war (please verify with an officer that Territory hits are OK).
-    - Takeover events (We allow it but firmly believe the right thing to do is enter as intended, by submitting the RSS to enter the takeover. While this is our opinion, we respect that others may not view it the same way.)
+**Territories:**
+- Follow RoE
+- Any Z-nodes hits a screenshot is required, as previously described.
+- Our guidelines for mining in Origin Space (aka Territories) are found here:
+- We ask any alliance to send a message in embassy or a message in game that you will be entering territory for Q trial events, and we will our utmost to respond quickly and notify in AC that you are not to be harmed
+- If any of our members have a Q trial in a territory not owned by us, we ask you to please send a message to the leadership of the alliance that owns it before heading into their territory
 
-- Q trial events in territory:
-    - Please send a message in embassy that you will be entering territory for Q trial events & we will do our utmost to respond quickly and notify in AC that you are not to be harmed
+**UPC Miners:**
+- As stated in Server 99 RoE: UPC miners are protected by RoE and shall not be hit, including floating miners.
+- The exception is a miner that is on a Z-node, in which case a screenshot is required, as previously described. Hitting a non-Z-node UPC miner not in our territories will count as a strike.
+
+**Absences:**
+- If you are going to be away from the game for more than 3 days, please let us know in the discord channel "stfc-absences" so we don't kick you out for inactivity.
 
 - Infractions to these guidelines will be discussed with the offenders or applicable offender's alliance Admiral / ROE Officer to discuss the best next steps.
 
