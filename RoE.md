@@ -36,7 +36,7 @@
 - Token space: any system requiring an item be provided in exchange for entrance, irrespective of the name of the item
 - Warship: any battleship, explorer, or interceptor; any ship engaged in PvP or hostile hunting; or any ship in another alliance's territory without invite, unless otherwise exempt under these rules.
 
-## SPWN specific ROE:
+## SPWN specific ROE/CoC:
 
 Our RoE Officer is KyreR, Backup is FahQueue2
 - Any RoE violations should be reported to them in the discord channel "stfc-roe-violations-only".
@@ -47,7 +47,7 @@ Our RoE Officer is KyreR, Backup is FahQueue2
 **Territories:**
 - Follow RoE
 - Any Z-nodes hits a screenshot is required, as previously described.
-- Our guidelines for mining in Origin Space (aka Territories) are found here:
+- Our guidelines for mining in Origin Space (aka Territories) are found here: [Mining in Territory](https://github.com/KyreSPWN/SPWN/blob/main/TerritoryMining.md)
 - We ask any alliance to send a message in embassy or a message in game that you will be entering territory for Q trial events, and we will our utmost to respond quickly and notify in AC that you are not to be harmed
 - If any of our members have a Q trial in a territory not owned by us, we ask you to please send a message to the leadership of the alliance that owns it before heading into their territory
 
