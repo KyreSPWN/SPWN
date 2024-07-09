@@ -73,7 +73,7 @@ Our RoE Officer is KyreR, Backup is FahQueue2
 - **Unfriendly** (*angry red face*): Made Steve angry. Hit them often, but follow RoE.
 - **Enemy** (*Red Target*): At war. Full KoS (kill on sight). RoE does NOT apply. Armadas and Token Spaces may still be off limits, despite them being KoS so please ask an officer if it's ok to hit them before doing so.
 
-**FOR ALL LABLES: TOKEN SPACES AND TERRITORIES ARE OFF LIMITS UNLESS AN OFFICER SAYS OTHERWISE**
+**FOR ALL LABLES: TOKEN SPACES ARE OFF LIMITS UNLESS AN OFFICER SAYS OTHERWISE**
 
 This is a copy of the RoE found in Steve's discord. The version of RoE on discord is considered the primary authority if there are ever any discrepancies between the two. Please join the discord and check the RoE regularly to ensure you're up to date on the latest requirements.
 
