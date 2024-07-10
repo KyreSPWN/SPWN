@@ -4,11 +4,12 @@ This repository is for information regarding the Spawn (SPWN) alliance in Star T
 
 Please familiarize yourself with [Server and SPWN Rules of Engagement (RoE) and Alliance Status Meanings](https://github.com/KyreSPWN/SPWN/blob/main/RoE.md), what screenshots are required for [Z-node hits](https://github.com/KyreSPWN/SPWN/blob/main/Z-node%20Screenshots.md), and our rules for [mining in Territory on Mining Mondays and during the rest of the week](https://github.com/KyreSPWN/SPWN/blob/main/TerritoryMining.md).
 
-We have a discord server, and the link to that is available through the Announcements section of the alliance page in game. There are four rooms/collections that are specific to STFC:
+We have a discord server, and the link to that is available through the Announcements section of the alliance page in game. There are five rooms/collections that are specific to STFC:
 - stfc-resources (a collection of handy information and links)
 - star-trek-fleet-command (the main chat room)
 - stfc-roe-violations-only (reports and discussion about RoE violations)
 - stfc-absences (notifications for absences)
+- stfc-znodes (post all znode screenshots here)
 
 This is Steve's professional discord, so the other rooms in the server should remain free from discussions about the game.
 
