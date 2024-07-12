@@ -23,7 +23,11 @@
 
 **Not Covered by ROE**
 - Bases, including hives 
-- Base raid interference (may cause hostilities between alliances) 
+- Base raid interference (may cause hostilities between alliances)
+
+**Mirror Universe Token Space Protection**
+- RoE protections for token space only extend to Mirror Axanar, Mirror Andoria, and Mirror Archer.
+- All other MU systems are not protected for any ship, for any reason.
 
 **Incursions**
 - Begin boot and loot and strategic raiding territory bases no later than 24 hrs in advance of incursions
