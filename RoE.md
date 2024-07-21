@@ -50,6 +50,8 @@ Our RoE Officer is KyreR, Backup is FahQueue2
 
 **Territories:**
 - Follow RoE
+- If a territory is contested (SPWN or our ally’s territory who we’re helping during a Territory Capture), then all ships, including miners, are considered warships
+- If there is no contest (Territory Capture) to a territory, then regular RoE applies (OPC/znode with screenshot only)
 - Any Z-nodes hits a screenshot is required, as previously described.
 - Our guidelines for mining in Origin Space (aka Territories) are found here: [Mining in Territory](https://github.com/KyreSPWN/SPWN/blob/main/TerritoryMining.md)
 - We ask any alliance to send a message in embassy or a message in game that you will be entering territory for Q trial events, and we will our utmost to respond quickly and notify in AC that you are not to be harmed
