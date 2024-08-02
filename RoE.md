@@ -59,7 +59,8 @@ Our RoE Officer is KyreR, Backup is FahQueue2
 
 **UPC Miners:**
 - As stated in Server 99 RoE: UPC miners are protected by RoE and shall not be hit, including floating miners.
-- The exception is a miner that is on a Z-node, in which case a screenshot is required, as previously described. Hitting a non-Z-node UPC miner not in our territories will count as a strike.
+- The exception is a miner that is on a Z-node, in which case a screenshot is required, as previously described.
+- Hitting a non-Z-node UPC miner not in our territories will count as a strike.
 
 **Absences:**
 - If you are going to be away from the game for more than 3 days, please let us know in the discord channel "stfc-absences" so we don't kick you out for inactivity.
