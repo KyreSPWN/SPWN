@@ -14,6 +14,7 @@
 - OPC survey ships are fair play, including those floating or traveling
 - UPC survey ships that are on z-nodes are fair play
 - Ships on specialty mining nodes for which they are not designed, except concentrated latinum when being mined with Arrock as captain.
+- All survey ships mining Isogen in territory have protection during the Latinum Rush Event.
 
 **Off-limit Hits**
 - Ships in token space, except in the Mirror Universe when acting as warships
