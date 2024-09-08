@@ -11,6 +11,10 @@ We have a discord server, and the link to that is available through the Announce
 - stfc-absences (notifications for absences)
 - stfc-znodes (post all znode screenshots here)
 
+And once you sign up for notifications (instructions below), you get access to two additional rooms for discussing and voting on stuff in a more private setting:
+- stfc-star-wars
+- stfc-star-wars-polls
+
 This is Steve's professional discord, so the other rooms in the server should remain free from discussions about the game.
 
 If you have any questions about RoE, please contact KyreR in game or in the STFC rooms on discord.
