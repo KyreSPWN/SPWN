@@ -13,7 +13,8 @@
 - All ships acting as warships are fair play, including surveys engaging in base raids or hunting hostiles
 - OPC survey ships are fair play, including those floating or traveling
 - UPC survey ships that are on z-nodes are fair play
-- Ships on specialty mining nodes for which they are not designed, except concentrated latinum when being mined with Arrock as captain.
+- Ships on specialty mining nodes for which they are not designed, except concentrated latinum when being mined with Arrock as captain
+- RoE is suspended during active TC's in the system an active TC is taking place
 
 **Off-limit Hits**
 - Ships in token space, except in the Mirror Universe when acting as warships
