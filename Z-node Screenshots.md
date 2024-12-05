@@ -1,6 +1,6 @@
 ### It is SPWN policy that screenshots of Z-node hits are REQUIRED *before* you hit a Z-node ship.
 
-These screenshots shall be kept for at least 7 days after the hit, may be requested by SPWN officers, and must be given if proof of the Z-node is needed.
+Screenshots must be posted in the "stfc-znodes" channel on discord, and the screenshots must follow the format shown below.
 
 Communication will happen in Steve's discord server in the "stfc-roe-violations-only" room.
 
