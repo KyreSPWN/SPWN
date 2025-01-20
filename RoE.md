@@ -66,6 +66,7 @@ Help us help you ☺️
 - Any RoE violations should be reported to them in the discord channel “stfc-roe-violations-only”
 - If Kyre or FQ is unavailable for any reason another officer will handle it
 - Our members are required to take screenshots of Z-node hits.  **All screenshots must be posted in discord in the “stfc-znode” screenshots channel**. Failure to provide Z-node screenshots will result in a strike.
+- Starbase Assaults are **ONLY** to be started with Officer approval. Starting an Assault without Officer approval will result in a strike.
 
 **Territories:**
   - if the territory is contested (SPWN or our ally’s territory who we’re helping), then all ships, including miners, are considered warships
