@@ -1,46 +1,39 @@
-## Server 99 Rules of Engagement
-
-**Basic Server 99 Rules of Engagement (ROE)**
+## Server 99.5 Rules of Engagement:
 
 **Overarching Rules**
-- Shield or share
-- All alliances may apply more restrictive ROE for their alliance (i.e., rules resulting in fewer allowed hits)
-- ROE is designed to promote fair and fun play, but does not restrict the ability of any alliance to declare war or KOS on another alliance based on its own reasoning, even if other alliances disagree. Should an alliance abuse war, other alliances may band together to put them in their place based on consensus. 
-- See PVP Target Guide (https://www.pvptarget.com/guide) for Definitions/Additional Information. 
-- If this channel and the PVP Target Guide conflict, this channel governs for Server 99
+- Shield or share.
+- All alliances reserve the right to add further restrictions to internal alliance policies.
+- "Our territory, our rules": Territory owning alliances may attack trespassers at any time.
+- ROE below supersedes any other source.
 
 **Hits Allowed Under ROE**
-- All ships acting as warships are fair play, including surveys engaging in base raids or hunting hostiles
-- OPC survey ships are fair play, including those floating or traveling
-- UPC survey ships that are on z-nodes are fair play
-- <ins>**Irrespective of other ROE provisions**</ins>, ships on specialty mining nodes for which they are not designed, except concentrated latinum when being mined with Arrock as captain
-- RoE is suspended during active TC's in the system an active TC is taking place
+- All ships acting as warships (including autogrinding).
+- OPC survey ships, including those floating or traveling.
+- UPC survey ships on z-nodes or acting as warships.
+- Irrespective of other ROE provisions, ships on specialty mining nodes for which they are not designed, except concentrated latinum when being mined with Arrock as captain.
 
 **Off-limit Hits**
-- Ships in token space, except in the Mirror Universe when acting as warships
-- Ships within an active armada circle
-- UPC survey ships that are floating or traveling are off limits
-- Discovery only while mining mycelium and UPC
-- All survey ships mining Isogen in territory have protection during the Latinum Rush Event.
+- Ships in token space. Note: See below for token space definition. MU systems 51 and up are not protected as token space and PvP is permitted under this definition.
+- Ships within their own alliance’s active armada circle.
+- UPC survey ships not engaged as warships.
 
-**Not Covered by ROE**
-- Bases, including hives 
-- Base raid interference (may cause hostilities between alliances)
+**ROE Is Suspended/Explicitly Does Not Apply**
+- 5 minutes prior to and during active territory captures, in that territory only.
+- 4 hours prior to and during incursion.
+- During War & KOS; declared parties only.
 
-**Mirror Universe Token Space Protection**
-- RoE protections for token space only extend to Mirror Axanar, Mirror Andoria, and Mirror Archer.
-- All other MU systems are not protected for any ship, for any reason.
+**Not Addressed in ROE**
+- Bases, including hives.
+- Base raid interference (may cause hostilities between alliances).
 
 **Incursions**
-- Begin boot and loot and strategic raiding territory bases no later than 24 hrs in advance of incursions
-- Suspend ROE 4 hrs ahead of incursions
+- Begin boot and loot and strategic raiding of territory bases no later than 24 hrs in advance of incursions.
 
 **Additional Definitions**
-- Floating: sitting in space 
-- Traveling: moving through space, including surveys returning to base from mining or raiding
-- Specialty mining node: any node other than parsteel/tritanium/dilithium/crystal/ore/gas/isogen
+- Specialty mining node: any node other than parsteel/tritanium/dilithium/crystal/ore/gas/isogen/trellium, including both A & D
 - Token space: any system requiring an item be provided in exchange for entrance, irrespective of the name of the item
-- Warship: any battleship, explorer, or interceptor; any ship engaged in PvP or hostile hunting; or any ship in another alliance's territory without invite, unless otherwise exempt under these rules.
+- Warship: Any ship engaged in PvP or hostile hunting
+
 
 ## SPWN specific Code of Conduct (CoC):
 
