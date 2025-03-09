@@ -22,11 +22,10 @@ If you have any questions about RoE, please contact KyreR in game or in the STFC
 Please change your server name to match your in-game name.
 
 You can get notifications when people post with an @stfc in the discord rooms! Here are the steps:
-1. Go to the "star-trek-fleet-command" room on discord.
-2. Open the magnifying glass search function.
-3. Click on "Pins".
-4. Find the following post and click it (it's near the top):
-   ![image of a discord bot called YAGPDB.xyz for Role Manu: React Roles](https://github.com/KyreSPWN/SPWN/blob/main/Notification1.jpg)
-5. When the post opens, react to it with the Vulcan Live Long and Prosper emoji 🖖
+1. Go to the top of the Channels list.
+2. Click on Channels and Roles
+3. Click on All Channels
+4. Scroll down to the Star Trek Fleet Command category and check Follow Category (preferred choice) or choose what channels you want to follow individually
+5. @ message Gail (GTBMusicIsLife) or Steve to be added to the spwn role
 
 [Home](https://github.com/KyreSPWN/SPWN)
