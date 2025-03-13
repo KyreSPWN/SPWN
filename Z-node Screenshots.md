@@ -22,7 +22,9 @@ The following is an example of a node that has vibrant color, showing that it st
 
 <br><br>
 
-You do not need to click on the node to bring up the node information. That obscures the name of the player sitting on the node.
+For znodes of Ore, Crystal, and Gas, you do not need to click on the node to bring up the node information. That obscures the name of the player sitting on the node.
+
+For znodes of Isogen, Latinum, and other mining nodes that DO NOT show a change in color when at 0, then two screenshots are needed. The first being like the example above, and the second showing the pop-up box when you click on the node that says it is at "0".
 
 If you have any questions about what is expected, please ask an Officer.
 
