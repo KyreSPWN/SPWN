@@ -26,6 +26,8 @@ For znodes of Ore, Crystal, and Gas, you do not need to click on the node to bri
 
 For znodes of Isogen, Latinum, and other mining nodes that DO NOT show a change in color when at 0, then two screenshots are needed. The first being like the example above, and the second showing the pop-up box when you click on the node that says it is at "0".
 
+![An image of an Isogen node where the player has clicked on the node to show that it is at 0.](https://github.com/KyreSPWN/SPWN/blob/main/Iso_Screenshot.jpg)
+
 If you have any questions about what is expected, please ask an Officer.
 
 [Home](https://github.com/KyreSPWN/SPWN)
